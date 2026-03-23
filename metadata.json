@@ -1,0 +1,5 @@
+{
+  "name": "Circuit Builder Pro",
+  "description": "An interactive sandbox game for building and simulating electronic circuits with real-time physics.",
+  "requestFramePermissions": []
+}
